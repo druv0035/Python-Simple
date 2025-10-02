@@ -1,0 +1,15 @@
+string="Hello There"
+integer=69
+float=69.6969
+bool=True
+
+print(string,"is of String Datatype.")
+print(integer,"is of Integer Datatype.")
+print(float,"is of Float Datatype.")
+print(bool,"is of Boolean Datatype.")
+print()
+
+print(type(string))
+print(type(integer))
+print(type(float))
+print(type(bool))
